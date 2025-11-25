@@ -1,1 +1,1 @@
-# Phishing-Website-Detection
+# Phishing-Detection-Website
